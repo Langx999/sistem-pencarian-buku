@@ -1,0 +1,4 @@
+﻿n,kolom,target_uji,linear_comparisons,binary_comparisons,linear_ms,binary_ms,pengulangan_waktu
+100,title,__TARGET_BENCHMARK_TIDAK_DITEMUKAN___100__,100,14,0.035941,0.004446,100
+1000,title,__TARGET_BENCHMARK_TIDAK_DITEMUKAN___1000__,1000,20,0.323437,0.003807,100
+10000,title,__TARGET_BENCHMARK_TIDAK_DITEMUKAN___10000__,10000,26,3.21319,0.00607,10

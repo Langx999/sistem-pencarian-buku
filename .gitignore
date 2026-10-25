@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+# Dataset Kaggle diletakkan lokal; jangan unggah kecuali lisensinya mengizinkan.
+dataset/*.csv
+dataset/books.csv
